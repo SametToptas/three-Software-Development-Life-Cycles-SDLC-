@@ -78,3 +78,6 @@ The most flexible of the SDLC models, the spiral model is similar to the iterati
 
 # Why is it more meaningful to me ? (SDLC Model)
 
+Ancak sürekli değişen gereksinimlere sahip karmaşık projeler için Agile modelinin esnekliği tercih edilmektedir.
+
+Bu nedenle Agile SDLC modeli son zamanlarda giderek daha popüler hale geldi ve talep görüyor. Bu talep öncelikle çevik modelin esnekliğine ve temel ilkelerine bağlanabilir. Temel ilkeleriyle uyarlanabilirliği, müşteri katılımını, yalın gelişimi, ekip çalışmasını, zamanı, sürdürülebilirliği ve testi kastediyoruz; bunun iki temel unsuru ekip çalışması ve zamandır (daha hızlı teslimat). Dolayısıyla Agile, proje için bir zaman çizelgesi oluşturmak yerine projeyi sprint adı verilen bireysel teslim edilebilir 'zaman sınırlı' parçalara böler. Bu model, erken ve sürekli teslimatı teşvik ederken esnekliğe, uyarlanabilirliğe, işbirliğine, iletişime ve kaliteye öncelik verir. Sonuçta tüm bunlar, nihai ürünün müşteri ihtiyaçlarını karşılamasını ve pazar taleplerine hızla yanıt verebilmesini sağlar.
