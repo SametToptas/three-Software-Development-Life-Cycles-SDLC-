@@ -75,3 +75,6 @@ This high-risk SDLC model throws most of its resources at development and works 
 
 ### Spiral Model
 The most flexible of the SDLC models, the spiral model is similar to the iterative model in its emphasis on repetition. The spiral model goes through the planning, design, build and test phases over and over, with gradual improvements at each pass.
+
+# Why is it more meaningful to me ? (SDLC Model)
+
