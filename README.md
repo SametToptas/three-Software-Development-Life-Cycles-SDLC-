@@ -24,5 +24,5 @@ It’s also important to know that there is a strong focus on the testing phase.
 
 Stages of Software Development Lifecycle ;
 
-<img src="[https://wiki.osgeo.org/w/images/e/e3/01_overview.jpg](https://stackify.com/wp-content/uploads/2020/04/SDLC-HS2020.png)https://stackify.com/wp-content/uploads/2020/04/SDLC-HS2020.png" width="300" height="300">
+<img src="https://stackify.com/wp-content/uploads/2020/04/SDLC-HS2020.png" width="600" height="450">
 
