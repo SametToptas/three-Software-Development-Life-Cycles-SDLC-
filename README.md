@@ -81,7 +81,7 @@ The most flexible of the SDLC models, the spiral model is similar to the iterati
 
 # Why is it more meaningful to me ? (SDLC Model)
 
-In fact, it would not be right to choose any model without knowing the project and project requirements. Each model has different advantages and disadvantages depending on the project requirements, but if I were to choose a project for the term project, I think the Agile model is more meaningful as it quickly adapts to changing requirements for complex projects.
+In fact, it would not be right to choose any model without knowing the project and project requirements. Each model has different advantages and disadvantages depending on the project requirements, but if I were to choose a project for the term project, I think the **Agile model** is more meaningful as it quickly adapts to changing requirements for complex projects.
 
 On the other hand, I would say that Agile model is more suitable for bug fixes and improvements, the model provides the ability to quickly implement bug fixes and improvements. This can help you improve the quality of the project and make improvements based on feedback. Additionally, instead of creating a timeline for the project, Agile breaks the project into individual deliverable 'time-limited' pieces called sprints. Thus, the project can be delivered faster.
 
