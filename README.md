@@ -1,3 +1,6 @@
+# SOFTWARE DEVELOPMENT LIFE CYCLE (SDLC) -AbdulsametToptas -21905024
+Software Development Life Cycle  AbdulsametToptas (21905024) created by GitHub Classroom
+
 # Software Development Life Cycles SDLC
 First of all, if we explain what Software Development Lifecycle means, Software Development Lifecycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software.
 
@@ -78,4 +81,10 @@ The most flexible of the SDLC models, the spiral model is similar to the iterati
 
 # Why is it more meaningful to me ? (SDLC Model)
 
+Aslında proje ve proje gereksinimleri belli olmadan herhangi bir modeli seçmek doğru olmaz. Her modelin proje gereksinimlerine göre birbirlerinden farklı avantajları ve dezavantajları vardır, fakat dönem projesi için bir proje seçecek olursam, karmaşık projeler için değişen gereknisimlere hızlı uyum sağladığı için Agile modelinin daha anlamlı olduğunu düşünüyorum. 
 
+Diğer yandan, Hata düzeltmeleri ve iyileştirmeler için Agile modelin daha uygun olduğunu söyleyebilirim, model hata düzeltmeleri ve iyileştirmeleri hızlı bir şekilde uygulama yeteneği sağlar. Bu da, projenin kalitesini artırmanıza ve geri bildirimlere dayalı olarak iyileştirmeler yapılmasına yardımcı olabilir. Ek olarak, Agile, proje için bir zaman çizelgesi oluşturmak yerine projeyi sprint adı verilen bireysel teslim edilebilir 'zaman sınırlı' parçalara böler. Böylece, proje daha hızlı teslim edilebilecek olmaktadır.
+
+Son olarak, Risk yönetimi ve Sürekli iyileştirme için Agile modelin daha uygun olduğu görülmektedir. Agile model riskleri daha erken aşamalarda tanımlamanıza ve çözümlemenize yardımcı olur. Projenin ilerlemesi sırasında olası sorunları daha hızlı bir şekilde ele almanıza imkan sağlar ve sürekli olarak iş süreçlerinizi ve uygulama geliştirme yöntemlerinizi iyileştirmenize olanak tanır. Bu da gelecekteki projeler için daha iyi uygulama geliştirme pratiği edinilmesine yarar.
+
+Sonuç olarak, dönem projemizin ihtiyaçlarının değişebileceği, proje sorumlusuna geri bildirimlerinin önemli olduğundan dolayı hızlı sonuçlara ihtiyaç duyulan durumlarda, Agile modeli daha uygun bir seçenek olabilir. Bu yüzden, Agile modeli bana daha anlamlı gelmektedir.
